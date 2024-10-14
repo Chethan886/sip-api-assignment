@@ -130,7 +130,7 @@ describe('ReqRes API Endpoints Tests', () => {
       });
     });
   
-    // Test: POST successful registration
+    // Test: POST successful registratio
     // This test verifies that a successful registration request 
     // returns a 200 status and includes a token in the response body.
     it('POST /api/register - Successful registration', () => {
